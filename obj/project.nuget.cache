@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xzOXKbRpZAV94IKgVsFQPB3/OhSyoPuKCGxdqThuflgKeQVI5EzeCSvjpSgdUBby+9IdHqM/jJJIKPbexJTucA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cardosofcs\\source\\repos\\ProjetoSamsungOcean\\E-JOGOS\\E-JOGOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cardosofcs\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
